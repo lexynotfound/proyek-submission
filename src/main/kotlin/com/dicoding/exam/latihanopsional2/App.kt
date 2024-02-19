@@ -28,7 +28,20 @@ package com.dicoding.exam.latihanopsional2
  */
 
 fun minAndMax(number: Int): Int {
-    return 0
+    var minDigit = 9
+    var maxDigit = 0
+    var num = number
+    while (num > 0){
+        val digit = num % 10
+        if(digit < minDigit){
+            minDigit = digit
+        }
+        if (digit > maxDigit){
+            maxDigit = digit
+        }
+        num /= 10
+    }
+    return minDigit + maxDigit
 }
 
 fun main() {

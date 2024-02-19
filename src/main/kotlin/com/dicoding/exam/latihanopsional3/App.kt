@@ -30,7 +30,25 @@ package com.dicoding.exam.latihanopsional3
  */
 
 fun manipulateString(str: String, int: Int): String {
-    return ""
+    var result = ""
+    var numberString = ""
+
+    // Mengecek apakah string mengadung angka
+    for (char in str){
+        if(char.isDigit()){
+            numberString += char
+        } else{
+            result += char
+        }
+    }
+    // Jika String Mengandung Angka
+    if (numberString.isNotEmpty()){
+        val number = numberString.toInt() * int
+        result += number
+    } else{
+        result += int
+    }
+    return result
 }
 
 fun main() {

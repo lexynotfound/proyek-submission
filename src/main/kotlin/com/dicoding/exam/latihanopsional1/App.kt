@@ -28,7 +28,15 @@ package com.dicoding.exam.latihanopsional1
  */
 
 fun sumOfBigThree(vararg numbers: Int): Int {
-    return 0
+    // Urutkan array secara descending
+    val sortedNumbers = numbers.sortedArrayDescending()
+
+    // Ambil maksimal 3 angka dan jumlahkan
+    var sum = 0
+    for (i in 0 until minOf(3, sortedNumbers.size)){
+        sum += sortedNumbers[i]
+    }
+    return sum
 }
 
 fun main() {
