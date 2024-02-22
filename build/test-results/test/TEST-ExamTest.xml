@@ -1,23 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ExamTest" tests="129" skipped="0" failures="0" errors="0" timestamp="2024-02-19T19:17:30" hostname="RAIHAN" time="15.22">
+<testsuite name="ExamTest" tests="129" skipped="0" failures="0" errors="0" timestamp="2024-02-20T02:34:20" hostname="RAIHAN" time="15.239">
   <properties/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.019"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.016"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.004"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.007"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
@@ -27,7 +24,7 @@
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
@@ -40,24 +37,13 @@
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
@@ -67,6 +53,18 @@
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.002"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
@@ -74,9 +72,6 @@
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
@@ -86,50 +81,55 @@
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
-  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 1" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 2" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 2" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 2" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 2" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 3" classname="ExamTest" time="0.002"/>
   <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
-  <testcase name="Latihan 3" classname="ExamTest" time="0.0"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 3" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 3" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 4" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 4" classname="ExamTest" time="0.0"/>
   <testcase name="Latihan 4" classname="ExamTest" time="0.001"/>
   <testcase name="Latihan 4" classname="ExamTest" time="0.001"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="3.009"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="3.013"/>
   <testcase name="Latihan 5" classname="ExamTest" time="3.017"/>
-  <testcase name="Latihan 5" classname="ExamTest" time="3.026"/>
-  <testcase name="Latihan 5" classname="ExamTest" time="3.004"/>
-  <testcase name="Latihan 5" classname="ExamTest" time="2.005"/>
-  <testcase name="Latihan 5" classname="ExamTest" time="2.015"/>
-  <testcase name="Latihan 5" classname="ExamTest" time="2.011"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="2.009"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="2.012"/>
+  <testcase name="Latihan 5" classname="ExamTest" time="2.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

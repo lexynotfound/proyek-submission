@@ -33,9 +33,10 @@ fun vehicle() = mapOf(
 )
 
 fun main() {
-    println("""
+    println(
+        """
         My Map Result:
         ${vehicle()}
-    """.trimIndent())
+        """.trimIndent()
+    )
 }
-

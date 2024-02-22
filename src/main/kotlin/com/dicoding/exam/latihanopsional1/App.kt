@@ -33,7 +33,7 @@ fun sumOfBigThree(vararg numbers: Int): Int {
 
     // Ambil maksimal 3 angka dan jumlahkan
     var sum = 0
-    for (i in 0 until minOf(3, sortedNumbers.size)){
+    for (i in 0 until minOf(3, sortedNumbers.size)) {
         sum += sortedNumbers[i]
     }
     return sum

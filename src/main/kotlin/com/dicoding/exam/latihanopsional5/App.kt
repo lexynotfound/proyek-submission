@@ -38,4 +38,3 @@ fun main() {
  */
 
 val concatString: (String, String) -> String = String::plus
-

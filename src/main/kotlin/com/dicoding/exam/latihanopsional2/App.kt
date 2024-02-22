@@ -31,12 +31,12 @@ fun minAndMax(number: Int): Int {
     var minDigit = 9
     var maxDigit = 0
     var num = number
-    while (num > 0){
+    while (num > 0) {
         val digit = num % 10
-        if(digit < minDigit){
+        if (digit < minDigit) {
             minDigit = digit
         }
-        if (digit > maxDigit){
+        if (digit > maxDigit) {
             maxDigit = digit
         }
         num /= 10

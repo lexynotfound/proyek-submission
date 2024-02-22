@@ -9,7 +9,6 @@
  *          4. Mengubah struktur project (menghapus, mengedit, dan memindahkan package)             *
  *                                                                                                  *
  ***************************************************************************************************/
-
 package com.dicoding.exam.latihan2
 
 /**
@@ -43,8 +42,10 @@ fun main() {
     val resultA = calculate(valueA, valueB, valueC)
     val resultB = calculate(valueA, valueB, null)
 
-    println("""
+    println(
+        """
         ${result(resultA)}
         ${result(resultB)}
-    """.trimIndent())
+        """.trimIndent()
+    )
 }

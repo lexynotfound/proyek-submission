@@ -50,6 +50,7 @@ fun main() = runBlocking {
     val resultSum = async { sum(10, 10) }
     val resultMultiple = async { multiple(20, 20) }
 
-    println("Result sum: ${resultSum.await()}\n" +
-            "Result multiple: ${resultMultiple.await()}")
+    println(
+        "Result sum: ${resultSum.await()}\n" + "Result multiple: ${resultMultiple.await()}"
+    )
 }
